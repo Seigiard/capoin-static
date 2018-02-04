@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /content/*.txt$
+Disallow: /site/
+Disallow: /panel/
+Disallow: /*.md$
+
+Host: capoeira.in
+Sitemap: http://capoeira.in/sitemap.xml
