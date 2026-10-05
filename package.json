@@ -1,0 +1,7 @@
+{
+  "name": "capoin-static",
+  "private": true,
+  "scripts": {
+    "lint:anti-slop": "node tools/oxlint/node_modules/oxlint/bin/oxlint --config .oxlintrc.json ."
+  }
+}
